@@ -1,0 +1,20 @@
+{
+  "name": "website-template",
+  "version": "0.1",
+  "description": "A development environment with automated utilities such as minify, auto-prefix for CSS, JS, & HTML files",
+  "license": "GPL-3.0",
+  "author": "Eugene Ahlers",
+  "dependencies": {
+    "browser-sync": "^2.24.4",
+    "del": "^3.0.0",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-cli": "^2.0.1",
+    "gulp-csso": "^3.0.1",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-uglify": "^3.0.0",
+    "gulp-wait": "0.0.2",
+    "run-sequence": "^2.2.1"
+  }
+}
